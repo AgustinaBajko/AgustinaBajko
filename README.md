@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgustinaBajko
-- 👀 I’m interested in the application of Data Science to Public Policy!
-- 🌱 I’m currently learning SQL & Python :)
-- 📫 How to reach me: agustinabajko@gmail.com
+- 👀 I’m interested in the application of Data Science and Analysis to various fields, in particular Public Policy!
+- 🌱 I’m currently building up my visualization skills in Tableau :)
+- 📫 How to reach out to me: agustinabajko@gmail.com
 
 <!---
 AgustinaBajko/AgustinaBajko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
